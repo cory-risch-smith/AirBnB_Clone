@@ -1,3 +1,7 @@
+This project was deployed using Firebase. Live Demo Below:
+
+https://airbnb-clone-515c5.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
